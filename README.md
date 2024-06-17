@@ -1,3 +1,26 @@
+## bag2_to_image (jazzy) - 0.1.0-6
+
+The packages in the `bag2_to_image` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy bag2_to_image --override-release-repository-push-url git@github.com:revyos-ros/bag2_to_image-release.git` on `Mon, 17 Jun 2024 03:03:01 -0000`
+
+The `bag2_to_image` package was released.
+
+Version of package(s) in repository `bag2_to_image`:
+
+- upstream repository: https://github.com/wep21/bag2_to_image.git
+- release repository: https://github.com/revyos-ros/bag2_to_image-release.git
+- rosdistro version: `0.1.0-5`
+- old version: `0.1.0-5`
+- new version: `0.1.0-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## bag2_to_image (humble) - 0.1.0-2
 
 The packages in the `bag2_to_image` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble bag2_to_image` on `Wed, 22 May 2024 08:00:36 -0000`
